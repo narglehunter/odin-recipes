@@ -1,0 +1,1 @@
+Currently learning coding foundations with basic html/css.
